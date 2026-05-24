@@ -1,36 +1,35 @@
 [
-    {
-      "id": 1,
-      "titulo": "Verifica antes de compartir",
-      "mensaje": "Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas.",
-      "categoria": "prevencion-desinformacion",
-      "audiencia": "comunidad general",
-      "tono": "preventivo",
-      "llamadoAccion": "Consulta la fuente antes de compartir.",
-      "fuente": "Canal institucional comunitario",
-      "revisionEditorial": "aprobada"
-    },
-    {
-      "id": 2,
-      "titulo": "Participa con respeto",
-      "mensaje": "La participación digital fortalece la comunidad cuando usamos lenguaje claro, respetuoso y no estigmatizante.",
-      "categoria": "cultura-de-paz",
-      "audiencia": "jóvenes participantes",
-      "tono": "pedagogico",
-      "llamadoAccion": "Comparte tus ideas sin atacar a otras personas.",
-      "fuente": "Equipo de comunicaciones",
-      "revisionEditorial": "aprobada"
-    },
-    {
-      "id": 3,
-      "titulo": "Avisos comunitarios claros",
-      "mensaje": "Los avisos deben indicar propósito, fecha, fuente y acción esperada para evitar confusión.",
-      "categoria": "convivencia-digital",
-      "audiencia": "líderes comunitarios",
-      "tono": "informativo",
-      "llamadoAccion": "Publica avisos con información completa.",
-      "fuente": "Protocolo editorial del curso",
-      "revisionEditorial": "aprobada"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "titulo": "El cine también construye comunidad",
+    "mensaje": "Los espacios de cine comunitario fortalecen el diálogo, la convivencia y la participación ciudadana cuando promovemos mensajes respetuosos y responsables.",
+    "categoria": "cultura-de-paz",
+    "audiencia": "comunidad general",
+    "tono": "pedagogico",
+    "llamadoAccion": "Participa en los próximos cine-foros comunitarios.",
+    "fuente": "Red Comunitaria Cine y Cultura",
+    "revisionEditorial": "aprobada"
+  },
+  {
+    "id": 2,
+    "titulo": "Verifica la información antes de compartir contenido",
+    "mensaje": "Antes de publicar contenido en grupos o redes comunitarias, revisa la fuente, confirma la fecha y evita compartir rumores o mensajes alarmistas.",
+    "categoria": "prevencion-desinformacion",
+    "audiencia": "jóvenes participantes",
+    "tono": "preventivo",
+    "llamadoAccion": "Consulta fuentes oficiales antes de compartir información.",
+    "fuente": "Equipo de comunicación comunitaria",
+    "revisionEditorial": "aprobada"
+  },
+  {
+    "id": 3,
+    "titulo": "Taller audiovisual juvenil",
+    "mensaje": "La creación audiovisual puede convertirse en una herramienta para expresar ideas, fortalecer la memoria colectiva y promover la participación juvenil.",
+    "categoria": "participacion-ciudadana",
+    "audiencia": "jóvenes y colectivos culturales",
+    "tono": "convocante",
+    "llamadoAccion": "Inscríbete en el próximo taller de narrativa audiovisual comunitaria.",
+    "fuente": "Colectivo Cine y Cultura",
+    "revisionEditorial": "aprobada"
+  }
+]
