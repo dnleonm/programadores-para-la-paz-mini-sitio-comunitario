@@ -1,39 +1,52 @@
 Curaduría de datos visibles – Clase 22
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Revisa los datos disponibles en data/mensajes.json y data/calendario-editorial.json.
 
 1. ¿Qué datos sí deben mostrarse públicamente en el tablero de mensajes?
 
 Respuesta:
+Deben mostrarse el título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente, porque ayudan a la comunidad a comprender la información de forma clara.
 
 2. ¿Qué datos no deberían mostrarse públicamente o deben mostrarse con cuidado?
 
 Respuesta:
+Los datos internos como observaciones editoriales, responsables internos detallados, estados de revisión o comentarios técnicos deben manejarse con cuidado o reservarse para uso interno.
 
 3. ¿Por qué no todo lo que está en el JSON debe aparecer en la vista pública?
 
 Respuesta:
+Porque algunos datos son únicamente para organización interna, revisión editorial o seguimiento técnico y podrían generar confusión o exposición innecesaria si se muestran públicamente.
 
 4. ¿Qué datos ayudan a la comunidad a entender el mensaje?
 
 Respuesta:
+El título, el mensaje principal, la categoría, el tono y el llamado a la acción ayudan a que la comunidad entienda rápidamente el propósito de la información.
 
 5. ¿Qué datos ayudan a verificar la información?
 
 Respuesta:
+La fuente, la categoría y el propósito del mensaje ayudan a verificar que la información tiene un origen claro y responsable.
 
 6. ¿Qué datos podrían ser internos para revisión editorial?
 
 Respuesta:
+Las observaciones editoriales, recomendaciones internas, estados de aprobación y comentarios técnicos pueden reservarse para el equipo de moderación o comunicaciones.
 
 7. ¿Cómo se relaciona la minimización de datos visibles con la confianza comunitaria?
 
 Respuesta:
+La minimización de datos visibles ayuda a proteger la privacidad, evita saturar la interfaz y permite mostrar únicamente información útil y clara para la comunidad, fortaleciendo la confianza comunitaria.
 
 8. Escribe una regla de curaduría para el tablero:
 
 Respuesta:
+El tablero comunitario debe mostrar únicamente información clara, útil y verificada, evitando publicar datos internos o innecesarios que puedan generar confusión o afectar la seguridad visual.

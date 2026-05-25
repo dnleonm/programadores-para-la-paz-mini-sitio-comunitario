@@ -1,8 +1,13 @@
 Registro de uso verificable de IA – Clase 24
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -19,31 +24,39 @@ No debes compartir con IA:
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
 Respuesta:
+Utilicé IA para organizar los pasos del proyecto, aclarar errores de Git, comprender el flujo frontend-backend y mejorar la redacción de los archivos de documentación.
 
 2. Escribe la pregunta que hiciste a la IA:
 
 Respuesta:
+Pregunté cómo solucionar problemas de ramas en Git, cómo verificar la integración entre frontend y backend y cómo estructurar correctamente la documentación del mini-sitio comunitario.
 
 3. Resume la respuesta recibida:
 
 Respuesta:
+La IA explicó cómo trabajar correctamente con ramas personales, cómo usar git pull y git merge, cómo verificar rutas de la API y cómo organizar la documentación técnica y comunicativa del proyecto.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
 Respuesta:
+Apliqué las recomendaciones relacionadas con Git, pruebas del mini-sitio, revisión de rutas API y organización de la documentación del proyecto.
 
 5. ¿Qué parte decidiste no aplicar?
 
 Respuesta:
+No apliqué sugerencias relacionadas con autenticación real o configuraciones avanzadas que no hacían parte del alcance pedagógico de la clase.
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
 Respuesta:
+Probé los comandos directamente en la terminal, ejecuté el mini-sitio, revisé las rutas de la API y confirmé visualmente que el frontend cargaba correctamente la información dinámica.
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
 Respuesta:
+No. Únicamente se utilizaron credenciales pedagógicas de demostración y ejemplos educativos del proyecto.
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
 Respuesta:
+Aprendí que la IA puede ser una herramienta útil para apoyar el aprendizaje y la organización del proyecto, pero toda sugerencia debe revisarse, entenderse y verificarse antes de aplicarla en un entorno real.

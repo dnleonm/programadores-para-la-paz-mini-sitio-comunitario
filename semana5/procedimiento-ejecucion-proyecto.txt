@@ -1,8 +1,13 @@
 Procedimiento de ejecución del proyecto – Clase 24
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 
@@ -12,65 +17,80 @@ Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 Ejemplos: Git, Node.js, navegador, editor de código.
 
 Respuesta:
+La persona debe tener instalado Git, Node.js, un navegador web y un editor de código como Visual Studio Code.
 
 2. Clonar repositorio
 
 Comando:
 
 Respuesta:
+git clone https://github.com/dnleonm/programadores-para-la-paz-mini-sitio-comunitario.git
 
 3. Entrar a la carpeta del proyecto
 
 Comando:
 
 Respuesta:
+cd programadores-para-la-paz-mini-sitio-comunitario
 
 4. Crear o cambiar a rama personal
 
 Comando:
 
 Respuesta:
+git checkout -b nicolas_leon
 
 5. Instalar dependencias
 
 Comando:
 
 Respuesta:
+npm install
 
 6. Ejecutar el proyecto
 
 Comando:
 
 Respuesta:
+npm run sitio
 
 7. Abrir en navegador
 
 Dirección:
 
 Respuesta:
+http://localhost:3000
 
 8. Probar rutas de la API
 
 Escribe las rutas que se deben probar:
 
 Respuesta:
+/api/mensajes
+/api/calendario
+/api/resumen
 
 9. Probar login pedagógico
 
 Usuario de demostración:
+docente
 
 Clave de demostración:
+demo
 
 Resultado esperado:
+El sistema debe responder con un mensaje de login pedagógico correcto.
 
 10. Verificación final
 
 ¿Cómo sabe la persona que el proyecto está funcionando?
 
 Respuesta:
+La persona puede verificar el funcionamiento cuando el mini-sitio abre correctamente, las rutas de la API responden, los mensajes se cargan dinámicamente y el login pedagógico funciona.
 
 11. Nota de seguridad
 
 ¿Qué información NO debe publicarse?
 
 Respuesta:
+No deben publicarse contraseñas reales, tokens reales, datos personales, información sensible de la comunidad ni credenciales privadas.

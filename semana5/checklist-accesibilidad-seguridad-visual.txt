@@ -1,67 +1,80 @@
 Checklist de accesibilidad y seguridad visual – Clase 22
 
 Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nicolás León
 
-Marca SÍ o NO y explica brevemente.
+Fecha:
+23/05/2026
+
+Nombre de la rama:
+nicolas_leon
 
 1. Tablero de mensajes
 
 ¿La interfaz funciona como vitrina comunitaria clara?
 
 Respuesta:
+Sí. La interfaz organiza los mensajes comunitarios y culturales de forma clara y permite consultar información importante fácilmente.
 
 2. Accesibilidad mínima
 
 ¿Los títulos son comprensibles y las secciones están separadas?
 
 Respuesta:
+Sí. Cada sección tiene títulos claros y diferenciados que ayudan a identificar rápidamente la información.
 
 3. Legibilidad
 
 ¿Los textos se pueden leer con facilidad?
 
 Respuesta:
+Sí. Los mensajes usan lenguaje sencillo y una estructura fácil de leer para diferentes públicos.
 
 4. Contraste suficiente
 
 ¿El texto se distingue del fondo?
 
 Respuesta:
+Sí. El contenido mantiene suficiente contraste para facilitar la lectura de la información.
 
 5. Jerarquía visual
 
 ¿Se entiende qué información es principal y qué información es secundaria?
 
 Respuesta:
+Sí. Los títulos, botones y secciones permiten identificar fácilmente qué contenido es más importante.
 
 6. Lenguaje claro
 
 ¿Los mensajes son comprensibles para una comunidad general?
 
 Respuesta:
+Sí. Los mensajes utilizan palabras sencillas y explicaciones claras relacionadas con cultura, convivencia y participación ciudadana.
 
 7. Organización visual coherente
 
 ¿Las tarjetas mantienen una estructura similar?
 
 Respuesta:
+Sí. Los mensajes y elementos del sitio mantienen un formato ordenado y coherente entre sí.
 
 8. Seguridad visual
 
 ¿La vista pública evita saturación, confusión o exposición innecesaria?
 
 Respuesta:
+Sí. La plataforma muestra únicamente información relevante y evita saturar la interfaz con exceso de contenido.
 
 9. Minimización de datos visibles
 
 ¿La página muestra solo la información necesaria?
 
 Respuesta:
+Sí. El mini-sitio evita mostrar datos personales innecesarios y se enfoca únicamente en información comunitaria.
 
 10. Lenguaje responsable y no estigmatizante
 
 ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
 Respuesta:
+Sí. Los mensajes promueven convivencia digital, comunicación responsable y participación respetuosa.

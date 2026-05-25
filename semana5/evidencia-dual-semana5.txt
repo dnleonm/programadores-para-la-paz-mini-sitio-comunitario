@@ -1,8 +1,13 @@
 Evidencia dual de Semana 5 – Clase 25
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 La evidencia dual de Semana 5 está compuesta por:
 
@@ -11,59 +16,74 @@ La evidencia dual de Semana 5 está compuesta por:
 Describe brevemente qué hace el mini-sitio:
 
 Respuesta:
+El mini-sitio funciona como una plataforma comunitaria para mostrar mensajes culturales, calendario editorial, resumen de actividades y revisión editorial pedagógica mediante integración entre frontend y backend.
 
 Rutas probadas:
 
 Respuesta:
+/api/mensajes
+/api/calendario
+/api/resumen
+/api/login
+/api/revision-editorial
 
 2. README versionado en Git
 
 Explica qué información contiene el README:
 
 Respuesta:
+El README explica el propósito del proyecto, instalación, ejecución, rutas de la API, login pedagógico, flujo de ramas Git y recomendaciones de seguridad y uso responsable de IA.
 
 3. Calendario editorial de dos semanas
 
 Describe el tema general del calendario editorial:
 
 Respuesta:
+El calendario editorial está enfocado en cultura comunitaria, participación ciudadana, convivencia digital y difusión responsable mediante cine y actividades culturales.
 
 Número de piezas:
 
 Respuesta:
+6 piezas editoriales.
 
 4. Difusión responsable
 
 ¿Cómo garantiza el proyecto una difusión responsable?
 
 Respuesta:
+El proyecto utiliza mensajes claros, revisión editorial básica, lenguaje respetuoso, verificación de fuentes y minimización de datos visibles antes de publicar información comunitaria.
 
 5. Revisión de fuentes
 
 ¿Cómo se revisa o menciona la fuente de la información?
 
 Respuesta:
+Cada mensaje y pieza editorial incluye una fuente, responsable o criterio de verificación para mantener transparencia y confiabilidad.
 
 6. Consistencia comunicativa
 
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
 
 Respuesta:
+Los mensajes mantienen temas similares relacionados con cultura de paz, convivencia digital y participación comunitaria utilizando un tono coherente y lenguaje claro.
 
 7. Moderación editorial básica
 
 ¿Qué criterios se deben revisar antes de publicar?
 
 Respuesta:
+Se debe revisar claridad del mensaje, propósito comunitario, lenguaje responsable, verificación mínima de fuentes y ausencia de contenido ofensivo o alarmista.
 
 8. GitHub y trazabilidad
 
 ¿Qué commits o avances registraste durante la semana?
 
 Respuesta:
+Se registraron avances relacionados con integración frontend-backend, tablero dinámico, calendario editorial, login pedagógico, middleware simple, documentación técnica y actualización del mini-sitio comunitario.
 
 9. Conclusión personal
 
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
 
 Respuesta:
+Porque integra programación, documentación, comunicación responsable, participación ciudadana, narrativa digital, trabajo colaborativo y organización comunitaria dentro de una misma herramienta funcional.

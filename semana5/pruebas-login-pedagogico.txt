@@ -1,8 +1,13 @@
 Pruebas de login pedagógico – Clase 24
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Importante:
 Este login es solo pedagógico. No es autenticación real.
@@ -13,9 +18,11 @@ Dirección:
 http://localhost:3000
 
 Resultado observado:
+El mini-sitio abrió correctamente mostrando las secciones del proyecto comunitario y el formulario de login pedagógico.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 2: Login con credenciales de demostración
 
@@ -29,9 +36,11 @@ Resultado esperado:
 El servidor responde con mensaje de login pedagógico correcto.
 
 Resultado observado:
+El sistema respondió correctamente mostrando el mensaje de acceso permitido y generando un token pedagógico de demostración.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 3: Login con clave incorrecta
 
@@ -45,20 +54,25 @@ Resultado esperado:
 El servidor responde que usuario o clave son incorrectos.
 
 Resultado observado:
+El sistema mostró correctamente un mensaje indicando que las credenciales de demostración eran incorrectas.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 4: Revisar almacenamiento del token de demostración
 
 ¿Qué token de demostración devuelve el servidor?
 
 Respuesta:
+El servidor devuelve un token pedagógico de demostración almacenado temporalmente en localStorage para practicar el flujo frontend-backend.
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
 
 Respuesta:
+Porque es únicamente una simulación educativa y no incluye cifrado, autenticación segura, control de sesiones reales ni protección avanzada de usuarios.
 
 6. ¿Para qué se usará este login en la Clase 25?
 
 Respuesta:
+Este login pedagógico se utilizará para practicar middleware, protección básica de rutas y control simple de acceso dentro del mini-sitio comunitario.

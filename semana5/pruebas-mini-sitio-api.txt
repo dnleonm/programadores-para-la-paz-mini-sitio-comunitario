@@ -1,8 +1,13 @@
 Pruebas del mini-sitio y API – Clase 21
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Prueba 1: Abrir mini-sitio
 
@@ -13,9 +18,11 @@ Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
 
 Resultado observado:
+El navegador abrió correctamente el mini-sitio mostrando las secciones de mensajes, calendario editorial, resumen y login pedagógico.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 2: Cargar mensajes
 
@@ -26,9 +33,11 @@ Resultado esperado:
 Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
 
 Resultado observado:
+Los mensajes se cargaron dinámicamente desde la API mostrando información organizada en tarjetas comunitarias.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 3: Cargar calendario editorial
 
@@ -39,9 +48,11 @@ Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
 
 Resultado observado:
+El calendario editorial mostró correctamente las 6 piezas planeadas para las dos semanas de difusión comunitaria.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 4: Ruta directa de mensajes
 
@@ -49,6 +60,7 @@ Ruta:
 http://localhost:3000/api/mensajes
 
 Resultado observado:
+La ruta respondió correctamente mostrando datos JSON con los mensajes comunitarios almacenados en el proyecto.
 
 Prueba 5: Ruta directa de calendario
 
@@ -56,8 +68,10 @@ Ruta:
 http://localhost:3000/api/calendario
 
 Resultado observado:
+La ruta respondió correctamente mostrando datos JSON del calendario editorial del proyecto comunitario.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
 
 Respuesta:
+La prueba de cargar mensajes ayudó más a entender el funcionamiento de la API porque permitió ver cómo fetch consulta información del backend y luego la muestra dinámicamente en el frontend del mini-sitio.

@@ -1,51 +1,67 @@
 Revisión editorial de mensajes dinámicos – Clase 23
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Selecciona un mensaje que aparezca en el tablero y responde.
 
 1. Título del mensaje seleccionado:
 
 Respuesta:
+El cine también construye comunidad.
 
 2. ¿El mensaje se cargó dinámicamente desde la API?
 
 Respuesta:
+Sí. El mensaje apareció en el tablero después de consultar la API mediante fetch.
 
 3. ¿El mensaje tiene propósito comunitario?
 
 Respuesta:
+Sí. El mensaje busca fortalecer la convivencia y la participación ciudadana mediante actividades culturales y cine comunitario.
 
 4. ¿El mensaje tiene audiencia clara?
 
 Respuesta:
+Sí. Está dirigido a la comunidad general y a las personas interesadas en actividades culturales comunitarias.
 
 5. ¿El tono es adecuado?
 
 Respuesta:
+Sí. El tono es pedagógico y convocante, adecuado para promover participación comunitaria.
 
 6. ¿El llamado a la acción es comprensible?
 
 Respuesta:
+Sí. El mensaje invita claramente a participar en actividades de cine-foro comunitario.
 
 7. ¿El mensaje tiene fuente o criterio de verificación?
 
 Respuesta:
+Sí. El mensaje incluye como fuente a la Red Comunitaria Cine y Cultura.
 
 8. ¿Mantiene consistencia comunicativa con los demás mensajes?
 
 Respuesta:
+Sí. Mantiene coherencia con los demás mensajes relacionados con convivencia digital, cultura de paz y participación ciudadana.
 
 9. ¿Requiere moderación editorial básica antes de publicarse?
 
 Respuesta:
+Sí. Toda publicación comunitaria debe pasar por una revisión básica para verificar claridad, lenguaje responsable y propósito comunitario.
 
 10. ¿Usa lenguaje responsable y no estigmatizante?
 
 Respuesta:
+Sí. El mensaje evita insultos, generalizaciones y lenguaje ofensivo, promoviendo convivencia y participación respetuosa.
 
 11. Escribe una mejora editorial para el mensaje:
 
 Respuesta:
+Se podría agregar la fecha y el lugar de la próxima actividad cultural para facilitar la participación de la comunidad.

@@ -1,123 +1,303 @@
 Calendario editorial de 2 semanas – Clase 21
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Tema general de la campaña comunitaria:
 
 Respuesta:
+Red Comunitaria Cine y Cultura: participación ciudadana, convivencia digital y comunicación responsable mediante actividades audiovisuales y culturales.
 
 Pieza 1
 
 Semana:
+1
+
 Día:
+Lunes
+
 Fecha:
+Pendiente por definir
+
 Tema:
+Cine y convivencia comunitaria
+
 Tipo de pieza:
+Campaña cultural
+
 Canal:
+Mini-sitio comunitario
+
 Público objetivo:
+Comunidad general
+
 Propósito:
+Promover espacios de diálogo y convivencia mediante el cine comunitario.
+
 Responsable:
+Equipo cultural comunitario
+
 Mensaje:
+El cine comunitario fortalece la participación y el diálogo respetuoso entre vecinos y jóvenes.
+
 Tono:
+Convocante
+
 Llamado a la acción:
+Participa en el próximo cine-foro comunitario.
+
 Fuente o criterio de verificación:
+Red Comunitaria Cine y Cultura
+
 Observaciones editoriales:
+Usar lenguaje claro, cercano y respetuoso.
+
 ¿Usa lenguaje responsable y no estigmatizante?
 Respuesta:
+Sí.
 
 Pieza 2
 
 Semana:
+1
+
 Día:
+Miércoles
+
 Fecha:
+Pendiente por definir
+
 Tema:
+Prevención de desinformación
+
 Tipo de pieza:
+Mensaje pedagógico
+
 Canal:
+Red comunitaria
+
 Público objetivo:
+Jóvenes participantes
+
 Propósito:
+Promover el uso responsable de la información en redes sociales.
+
 Responsable:
+Equipo de comunicaciones
+
 Mensaje:
+Antes de compartir contenido en redes o grupos comunitarios, verifica la fuente y la fecha de publicación.
+
 Tono:
+Preventivo
+
 Llamado a la acción:
+Consulta fuentes oficiales antes de compartir información.
+
 Fuente o criterio de verificación:
+Equipo de comunicación comunitaria
+
 Observaciones editoriales:
+Evitar mensajes alarmistas o acusatorios.
+
 ¿Usa lenguaje responsable y no estigmatizante?
 Respuesta:
+Sí.
 
 Pieza 3
 
 Semana:
+1
+
 Día:
+Viernes
+
 Fecha:
+Pendiente por definir
+
 Tema:
+Narrativa audiovisual juvenil
+
 Tipo de pieza:
+Convocatoria
+
 Canal:
+Mini-sitio comunitario
+
 Público objetivo:
+Jóvenes y colectivos culturales
+
 Propósito:
+Invitar a jóvenes a participar en talleres audiovisuales comunitarios.
+
 Responsable:
+Equipo audiovisual comunitario
+
 Mensaje:
+La creación audiovisual puede convertirse en una herramienta para compartir historias y fortalecer la memoria colectiva.
+
 Tono:
+Convocante
+
 Llamado a la acción:
+Inscríbete en el taller de narrativa audiovisual comunitaria.
+
 Fuente o criterio de verificación:
+Colectivo Cine y Cultura
+
 Observaciones editoriales:
+Promover creatividad, inclusión y participación juvenil.
+
 ¿Usa lenguaje responsable y no estigmatizante?
 Respuesta:
+Sí.
 
 Pieza 4
 
 Semana:
+2
+
 Día:
+Lunes
+
 Fecha:
+Pendiente por definir
+
 Tema:
+Seguimiento comunitario
+
 Tipo de pieza:
+Resumen informativo
+
 Canal:
+Mini-sitio comunitario
+
 Público objetivo:
+Líderes comunitarios
+
 Propósito:
+Compartir resultados y actividades realizadas durante la campaña cultural.
+
 Responsable:
+Equipo técnico y comunicaciones
+
 Mensaje:
+La participación ciudadana permite fortalecer los espacios culturales y mejorar la convivencia comunitaria.
+
 Tono:
+Informativo
+
 Llamado a la acción:
+Consulta el resumen y comparte nuevas propuestas culturales.
+
 Fuente o criterio de verificación:
+API comunitaria
+
 Observaciones editoriales:
+No exponer datos personales ni información sensible.
+
 ¿Usa lenguaje responsable y no estigmatizante?
 Respuesta:
+Sí.
 
 Pieza 5
 
 Semana:
+2
+
 Día:
+Miércoles
+
 Fecha:
+Pendiente por definir
+
 Tema:
+Convivencia digital
+
 Tipo de pieza:
+Recordatorio pedagógico
+
 Canal:
+Grupo juvenil comunitario
+
 Público objetivo:
+Jóvenes participantes
+
 Propósito:
+Promover comunicación respetuosa y convivencia digital.
+
 Responsable:
+Equipo de comunicaciones
+
 Mensaje:
+La participación digital debe construirse desde el respeto, el diálogo y el lenguaje responsable.
+
 Tono:
+Pedagógico
+
 Llamado a la acción:
+Comparte tus ideas sin atacar a otras personas.
+
 Fuente o criterio de verificación:
+Protocolo editorial comunitario
+
 Observaciones editoriales:
+Evitar expresiones ofensivas o discriminatorias.
+
 ¿Usa lenguaje responsable y no estigmatizante?
 Respuesta:
+Sí.
 
 Pieza 6
 
 Semana:
+2
+
 Día:
+Viernes
+
 Fecha:
+Pendiente por definir
+
 Tema:
+Cierre de campaña cultural
+
 Tipo de pieza:
+Balance comunitario
+
 Canal:
+Mini-sitio y redes comunitarias
+
 Público objetivo:
+Comunidad general
+
 Propósito:
+Compartir aprendizajes y recoger nuevas propuestas culturales.
+
 Responsable:
+Red Comunitaria Cine y Cultura
+
 Mensaje:
+La cultura y el cine comunitario ayudan a construir espacios de participación y convivencia para todos.
+
 Tono:
+Informativo
+
 Llamado a la acción:
+Propón nuevas actividades culturales para fortalecer la comunidad.
+
 Fuente o criterio de verificación:
+Equipo de seguimiento comunitario
+
 Observaciones editoriales:
+Mantener coherencia narrativa con las campañas anteriores.
+
 ¿Usa lenguaje responsable y no estigmatizante?
 Respuesta:
+Sí.

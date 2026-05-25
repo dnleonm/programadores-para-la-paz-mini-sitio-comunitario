@@ -1,61 +1,92 @@
 Bitácora Git del proyecto vivo – Clase 21
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 1. Nombre del repositorio único de Semana 5:
 
 Respuesta:
+programadores-para-la-paz-mini-sitio-comunitario
 
 2. ¿Qué rama actualizan los docentes?
 
 Respuesta:
+La rama main.
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
 Respuesta:
+Cada estudiante utiliza una rama personal para desarrollar sus cambios sin afectar la versión principal del proyecto.
 
 4. Comando usado para clonar el repositorio:
 
 Respuesta:
+git clone https://github.com/dnleonm/programadores-para-la-paz-mini-sitio-comunitario.git
 
 5. Comando usado para entrar a la carpeta del proyecto:
 
 Respuesta:
+cd programadores-para-la-paz-mini-sitio-comunitario
 
 6. Comando usado para crear tu rama personal:
 
 Respuesta:
+git checkout -b nicolas_leon
 
 7. Comando usado para verificar la rama actual:
 
 Respuesta:
+git branch
 
 8. Comando que se usará desde la Clase 22 para traer cambios de main:
 
 Respuesta:
+git pull --ff-only origin main
+
+Este comando permite traer actualizaciones de la rama principal sin generar conflictos innecesarios cuando el historial sigue una misma línea de trabajo.
 
 9. Explica con tus palabras qué significa fast-forward:
 
 Respuesta:
+Fast-forward significa que Git puede avanzar una rama hasta la versión más reciente sin crear commits adicionales porque los cambios siguen una misma línea de trabajo organizada.
 
 10. ¿Por qué no se debe trabajar directamente en main?
 
 Respuesta:
+Porque main es la rama principal del proyecto y modificarla directamente puede generar errores, conflictos o afectar el trabajo colaborativo de otras personas.
 
 11. Comando usado para revisar cambios al final:
 
 Respuesta:
+git status
 
 12. Comando usado para agregar cambios:
 
 Respuesta:
+git add .
 
 13. Comando usado para crear commit:
 
 Respuesta:
+git commit -m "Actualización mini sitio comunitario semana 5"
 
 14. Comando usado para publicar tu rama:
 
 Respuesta:
+git push -u origin nicolas_leon
+
+15. Comando usado para integrar cambios de main a la rama personal:
+
+Respuesta:
+git merge main
+
+16. ¿Por qué fue importante trabajar con ramas durante el proyecto vivo?
+
+Respuesta:
+Trabajar con ramas permitió desarrollar cambios de forma segura, mantener organizada la trazabilidad del proyecto y evitar afectar directamente la rama principal mientras se realizaban pruebas y mejoras.

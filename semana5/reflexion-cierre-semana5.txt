@@ -1,45 +1,14 @@
 Reflexión de cierre de Semana 5 – Clase 25
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
-
-Escribe una reflexión de 10 a 12 líneas respondiendo:
-
-¿Cómo cambió tu forma de trabajar desde las primeras clases hasta este proyecto único en GitHub?
-
-En tu respuesta menciona al menos ocho de estas ideas:
-
-- GitHub
-- repositorio
-- rama main
-- rama personal
-- git pull
-- fast-forward
-- git merge
-- commit
-- push
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express
-- API
-- JSON
-- fetch
-- async
-- await
-- tablero de mensajes
-- calendario editorial
-- README
-- login pedagógico
-- middleware simple
-- difusión responsable
-- revisión de fuentes
-- consistencia comunicativa
-- moderación editorial básica
-- lenguaje responsable y no estigmatizante
-- participación ciudadana
-- cultura de paz
+nicolas_leon
 
 Respuesta:
+
+Mi forma de trabajar cambió mucho desde las primeras clases hasta este proyecto único en GitHub porque ahora entiendo mejor cómo organizar un desarrollo completo usando repositorios, ramas y documentación. Aprendí a trabajar correctamente con la rama main y con mi rama personal utilizando comandos como git pull, git merge, commit y push para mantener trazabilidad de los cambios. También comprendí cómo funciona el flujo frontend-backend usando HTML, CSS, JavaScript, Node.js y Express para construir una herramienta comunitaria funcional. Gracias al uso de API, JSON, fetch, async y await, logré cargar mensajes dinámicos y conectar el mini-sitio con información actualizable desde el backend. Además, el tablero de mensajes y el calendario editorial me ayudaron a entender cómo la programación puede apoyar procesos de participación ciudadana y cultura de paz. El README y la documentación permitieron organizar el proyecto y facilitar su transferencia tecnológica. También aprendí conceptos importantes como login pedagógico y middleware simple para comprender rutas protegidas y validaciones básicas. Finalmente, entendí que un proyecto comunitario no solo necesita funcionar técnicamente, sino también mantener difusión responsable, revisión de fuentes, consistencia comunicativa y lenguaje responsable y no estigmatizante para fortalecer la confianza de la comunidad.

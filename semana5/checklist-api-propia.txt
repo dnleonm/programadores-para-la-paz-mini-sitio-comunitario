@@ -1,67 +1,80 @@
 Checklist de API propia – Clase 23
 
 Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nicolás León
 
-Marca SÍ o NO y explica brevemente.
+Fecha:
+23/05/2026
+
+Nombre de la rama:
+nicolas_leon
 
 1. Integración Frontend-Backend
 
 ¿El frontend consulta información del backend?
 
 Respuesta:
+Sí. El frontend consulta información desde la API del backend usando fetch para cargar mensajes, calendario y resúmenes.
 
 2. Consumo de la API propia
 
 ¿La página usa rutas del mismo proyecto?
 
 Respuesta:
+Sí. La página utiliza rutas propias como /api/mensajes, /api/calendario y /api/resumen.
 
 3. Mensajes dinámicos
 
 ¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
 
 Respuesta:
+Sí. Los mensajes se cargan dinámicamente desde archivos JSON consultados por la API.
 
 4. Ruta GET /api/mensajes
 
 ¿La ruta responde correctamente?
 
 Respuesta:
+Sí. La ruta devuelve correctamente los mensajes comunitarios relacionados con cine, cultura y participación ciudadana.
 
 5. Ruta GET /api/calendario
 
 ¿La ruta responde correctamente?
 
 Respuesta:
+Sí. La ruta entrega correctamente el calendario editorial con actividades y campañas culturales.
 
 6. Ruta GET /api/resumen
 
 ¿La ruta responde correctamente?
 
 Respuesta:
+Sí. La ruta genera un resumen dinámico del proyecto y muestra información general del mini-sitio.
 
 7. Respuesta JSON
 
 ¿Las rutas entregan datos estructurados?
 
 Respuesta:
+Sí. Las respuestas se entregan en formato JSON organizado y fácil de interpretar.
 
 8. Render dinámico
 
 ¿El tablero muestra datos recibidos desde la API?
 
 Respuesta:
+Sí. El tablero muestra información dinámica obtenida desde el backend y no únicamente contenido fijo.
 
 9. Diagnóstico básico
 
 ¿Sabes qué revisar si no carga la información?
 
 Respuesta:
+Sí. Se debe revisar si el servidor está activo, si las rutas existen correctamente y si fetch está apuntando a la dirección adecuada.
 
 10. Comunicación responsable
 
 ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
 
 Respuesta:
+Sí. Los mensajes incluyen lenguaje claro, enfoque comunitario y criterios de comunicación responsable y no estigmatizante.

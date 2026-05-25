@@ -1,8 +1,13 @@
 Pruebas del tablero de mensajes – Clase 22
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Prueba 1: Abrir mini-sitio
 
@@ -13,9 +18,11 @@ Resultado esperado:
 El mini-sitio abre correctamente y muestra estructura visual con estilos.
 
 Resultado observado:
+El mini-sitio abrió correctamente mostrando el proyecto “Red Comunitaria Cine y Cultura” con secciones organizadas, botones y contenido visual estructurado.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 2: Verificar hoja de estilos
 
@@ -26,9 +33,11 @@ Resultado esperado:
 La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
 
 Resultado observado:
+La interfaz mostró tarjetas organizadas, separación entre secciones, botones visibles y una estructura visual clara y legible.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 3: Cargar mensajes
 
@@ -39,9 +48,11 @@ Resultado esperado:
 Los mensajes aparecen como tarjetas legibles.
 
 Resultado observado:
+Los mensajes comunitarios relacionados con cine, cultura y participación ciudadana aparecieron correctamente organizados en tarjetas visuales.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Prueba 4: Revisar datos visibles
 
@@ -55,9 +66,11 @@ llamado a la acción
 fuente
 
 Resultado observado:
+El tablero mostró información clara y resumida sobre los mensajes comunitarios utilizando únicamente los datos necesarios para la comunidad.
 
 ¿Aparecen datos innecesarios?
 Respuesta:
+No. La vista pública evita mostrar datos internos innecesarios y mantiene minimización de datos visibles.
 
 Prueba 5: Cargar calendario
 
@@ -68,11 +81,14 @@ Resultado esperado:
 El calendario aparece como tarjetas con información resumida.
 
 Resultado observado:
+El calendario editorial se cargó correctamente mostrando actividades culturales, talleres audiovisuales y campañas comunitarias en formato organizado.
 
 ¿Funcionó?
 Respuesta:
+Sí.
 
 Conclusión:
 ¿Qué mejora visual ayudó más a entender la información comunitaria?
 
 Respuesta:
+La organización de los mensajes en tarjetas separadas y el uso de títulos claros ayudó a entender mejor la información comunitaria y facilitó la lectura del contenido.

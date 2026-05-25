@@ -1,8 +1,13 @@
 Mapa del flujo Frontend-Backend – Clase 23
 
 Nombre del estudiante:
+Nicolás León
+
 Fecha:
+23/05/2026
+
 Nombre de la rama:
+nicolas_leon
 
 Completa el flujo con tus palabras.
 
@@ -11,57 +16,67 @@ Completa el flujo con tus palabras.
 ¿Qué parte del proyecto corresponde al frontend?
 
 Respuesta:
+El frontend corresponde a la parte visual del proyecto que ve la comunidad en el navegador, como public/index.html, styles.css y app.js.
 
 2. Backend
 
 ¿Qué parte del proyecto corresponde al backend?
 
 Respuesta:
+El backend corresponde al servidor construido con Node.js y Express que responde las rutas de la API y entrega información al frontend.
 
 3. API propia
 
 ¿Qué rutas expone la API propia del proyecto?
 
 Respuesta:
+La API propia expone rutas como /api/mensajes, /api/calendario y /api/resumen.
 
 4. Datos
 
 ¿Qué archivos JSON usa el backend para responder?
 
 Respuesta:
+El backend utiliza los archivos data/mensajes.json y data/calendario-editorial.json.
 
 5. Consulta desde frontend
 
 ¿Qué función de JavaScript se usa para consultar la API?
 
 Respuesta:
+Se utiliza la función fetch() para consultar la información de la API.
 
 6. Espera de respuesta
 
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
 Respuesta:
+Se utilizan async y await para esperar la respuesta del servidor.
 
 7. Conversión de respuesta
 
 ¿Qué hace respuesta.json()?
 
 Respuesta:
+respuesta.json() convierte la respuesta recibida del servidor en datos JavaScript que pueden usarse en la página.
 
 8. Render dinámico
 
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
 Respuesta:
+Significa que los mensajes y actividades aparecen automáticamente desde la API y no están escritos manualmente en el HTML.
 
 9. Prueba
 
 ¿Cómo verificaste que la información del tablero coincide con la API?
 
 Respuesta:
+Comparé los datos mostrados en el tablero con la información visible en las rutas JSON de la API y confirmé que coincidían correctamente.
 
 10. Propósito comunitario
 
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
 Respuesta:
+Esta integración permite actualizar mensajes, campañas y actividades desde el backend para que el frontend muestre siempre información reciente y organizada para la comunidad.
